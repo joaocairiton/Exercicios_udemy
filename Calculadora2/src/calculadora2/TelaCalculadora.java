@@ -467,8 +467,7 @@ public class TelaCalculadora extends javax.swing.JFrame {
 
         if (!(this.lb_Tela.getText().contains("."))) {
             setarNumerosLabel('.');
-        }        
-        //setarNumerosLabel('.');
+        }
 
     }//GEN-LAST:event_bt_pontoActionPerformed
 
